@@ -16,7 +16,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function inbox() {
+export default function Inbox() {
   const classes = useStyles();
 
   return (
