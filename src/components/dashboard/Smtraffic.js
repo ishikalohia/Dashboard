@@ -66,7 +66,7 @@ const Smtraffic = (props) => (
                       <LinearProgress
                         value={order.val}
                         variant="determinate"
-                        style={{ width: '200px', marginLeft: '10px' }}
+                        style={{ width: '180px', marginLeft: '10px' }}
                       />
                     </Box>
                   </div>

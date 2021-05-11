@@ -74,7 +74,7 @@ const Visitedpage = (props) => (
                 <TableCell>{order.visit}</TableCell>
                 <TableCell>
                   <div
-                    style={{ width: '160px', display: 'flex', height: '50px' }}
+                    style={{ width: '140px', display: 'flex', height: '50px' }}
                   >
                     <p style={{ paddingTop: '15px' }}>{order.Bounce}</p>
                     <Line
